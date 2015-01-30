@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: messages_js.po (new)\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-12-26 11:22-0800\n"
+"POT-Creation-Date: 2015-01-30 00:01-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
@@ -239,6 +239,9 @@ msgstr "移動する"
 
 msgid "Move Item to:"
 msgstr "アイテムの移動先："
+
+msgid "No data points to graph"
+msgstr ""
 
 msgid "Okay"
 msgstr "OK"
